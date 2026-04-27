@@ -1,2 +1,1 @@
-# jsm-gating-test
-Test repo for deployment gating  attempt 2
+Testing JSM deployment gating - attempt 2
